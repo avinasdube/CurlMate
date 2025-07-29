@@ -1,0 +1,11 @@
+{
+  "name": "curlmate",
+  "version": "1.0.0",
+  "description": "\"A minimal API tester with save and share functionality.\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Avinash Dubey",
+  "license": "ISC"
+}
