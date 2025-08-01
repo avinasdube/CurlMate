@@ -1,3 +1,4 @@
+import Footer from "./components/footer";
 import Navbar from "./components/Navbar";
 
 function App() {
@@ -5,6 +6,7 @@ function App() {
     <>
       <Navbar />
       Welcome to CurlMate!
+      <Footer />
     </>
   );
 }
